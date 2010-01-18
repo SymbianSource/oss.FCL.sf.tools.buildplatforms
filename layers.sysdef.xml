@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE SystemDefinition SYSTEM "sysdef_1_4_0.dtd" [
+  <!ENTITY layer_real_source_path "sf/tools/buildplatforms" >
+]>
+
+<SystemDefinition name="buildplatforms" schema="1.4.0">
+  <systemModel>
+  <layer name="os_layer">
+		<module name="sf_common_tsy">
+			<component name="sf_common_tsy">
+				<unit unitID="symbian.common_tsy" name="sf_common_tsy" bldFile="sf/os/cellularsrv/telephonyserverplugins/common_tsy/group" mrp="" filter=""/>
+			</component>
+		</module>
+		<module name="sf_openvg11">
+			<component name="sf_openvg11">
+				<unit unitID="symbian.openvg11" name="sf_openvg11" bldFile="sf/os/graphics/openvg/openvginterface/group/openvg11" mrp="" filter="sf_build"/>
+			</component>
+		</module>
+	</layer>
+  <layer name="stubs_layer">
+		<module name="sf_licenseetsystub">
+			<component name="sf_licenseetsystub">
+				<unit unitID="symbian.licenseetsystub" name="sf_licenseetsystub" bldFile="sf/os/cellularsrv/telephonyserverplugins/licenseetsystub/group" mrp="" filter=""/>
+			</component>
+		</module>
+	</layer>
+
+    <layer name="bin_layer">
+			<module name="bin_layer_helix_ren">
+					<unit unitID="bin_layer_sf_mw_helix_helix_ren_src" name="src" bldFile="sf/mw/helix/helix_ren/src/group" mrp="" filter="!no_binonly"/>
+			</module>
+    </layer>
+  </systemModel>
+</SystemDefinition>

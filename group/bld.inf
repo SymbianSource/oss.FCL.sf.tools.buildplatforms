@@ -1,0 +1,32 @@
+/*
+* Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies).
+* All rights reserved.
+* This component and the accompanying materials are made available
+* under the terms of "Eclipse Public License v1.0"
+* which accompanies this distribution, and is available
+* at the URL "http://www.eclipse.org/legal/epl-v10.html".
+*
+* Initial Contributors:
+* Nokia Corporation - initial contribution.
+*
+* Contributors:
+*
+* Description:
+*
+*/
+
+
+PRJ_EXPORTS
+
+
+/*
+Path & File name check scripts
+*/
+../build/tools/check_path_lenghts.pl                   /epoc32/tools/check_path_lenghts.pl
+../build/tools/check_filename_uniq.pl                   /epoc32/tools/check_filename_uniq.pl
+
+
+/*
+SBSv2 configuration file
+*/
+../build/data/s60_sbs_config.xml               /epoc32/sbs_config/s60_sbs_config.xml

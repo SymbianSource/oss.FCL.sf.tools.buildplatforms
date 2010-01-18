@@ -1,0 +1,18 @@
+<task><buildLayer command="bldmake bldfiles" unitParallel="Y"/></task>
+<task><buildLayer command="abld export" unitParallel="Y"/></task>
+<task><buildLayer command="abld makefile" targetList="default_tools" unitParallel="Y" targetParallel="Y"/></task>
+<task><buildLayer command="abld library" targetList="default_tools" unitParallel="N" targetParallel="N"/></task>
+<task><buildLayer command="abld target" targetList="tools_rel" unitParallel="N" targetParallel="Y"/></task>
+<task><buildLayer command="abld final" targetList="tools_rel" unitParallel="N" targetParallel="Y"/></task>
+<task><buildLayer command="abld -what build" targetList="tools_rel" unitParallel="N" targetParallel="Y"/></task>
+<task><buildLayer command="abld -check build" targetList="tools_rel" unitParallel="N" targetParallel="Y"/></task>
+<task><buildLayer command="abld makefile" targetList="default_winscw" unitParallel="Y" targetParallel="Y"/></task>
+<task><buildLayer command="abld resource" targetList="default_winscw" unitParallel="N" targetParallel="N"/></task>
+<task><buildLayer command="abld library" targetList="default_winscw" unitParallel="N" targetParallel="N"/></task>
+<task><buildLayer command="abld makefile" targetList="default_armv5" unitParallel="Y" targetParallel="Y"/></task>
+<task><buildLayer command="abld resource" targetList="default_armv5" unitParallel="N" targetParallel="N"/></task>
+<task><buildLayer command="abld library" targetList="default_armv5" unitParallel="N" targetParallel="N"/></task>
+<task><buildLayer command="abld target" targetList="default" unitParallel="Y" targetParallel="Y"/></task>
+<task><buildLayer command="abld final" targetList="default" unitParallel="N" targetParallel="N"/></task>
+<task><buildLayer command="abld -what build" targetList="default" unitParallel="Y" targetParallel="Y"/></task>
+<task><buildLayer command="abld -check build" targetList="default" unitParallel="Y" targetParallel="Y"/></task>
