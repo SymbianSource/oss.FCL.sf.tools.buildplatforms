@@ -105,7 +105,7 @@ Contributors:
 Description:
 ============================================================================
 -->
-<SystemDefinition name="sysdef_dtd_1_5_1_xml + QuickOffice + adobereader + webvideo + wmdrmkeystorage_dist + wmdrmpd_dist + zipviewer + AknPictographBitmaps + avdomain + s60platformrelease + ctd_layers + oemrndtools + swconfigapps + avdomain + btaudioadaptation_stub + drm_stub + ocrsrv_stub + omasuplasnconverterstubimpl + posmsgpluginreferenceimpl + power_save_display_mode_stub + srsfenginestub + systemswstubs + tactileclickplugin_stub + wlanhwinit_stub + camera + commonemail + conntools + contacts + contentcontrol + conversations + devicecontrol + systemswextensions + files + graphicsuis + helps + homescreen + im + iptelephony + jrt + location + messaging + mmsharinguis + avdomain + organizer + phone + photos + printing + profile + radio + rndtools + screensaver + settingsuis + speechsrv + graphics + utils + video + videotelephony + avdomain + webuis + accesssec + appinstall + appsupport + btservices + camerasrv + classicui + dlnasrv + drm + gsprofilesrv + hapticsservices + avdomain + homescreensrv + imghandling + imsrv + inputmethods + ipappprotocols + ipappservices + ipconnmgmt + legacypresence + locationsrv + mds + messagingmw + metadatasrv + avdomain + avdomain + mmuifw + netprotocols + opensrv + phonesrv + platformtools + ptihangulcore + ptikoreanqwertycore + qt + remoteconn + remotemgmt + remotestorage + securitysrv + serviceapi + serviceapifw + shortlinkconn + ossrv + svgt + uiaccelerator + uiresources + uitools + usbservices + videoutils + vpnclient + web + websrv + wirelessacc + bt + deviceplatformrelease + devicesrv + graphics + imagingext + lbs + avdomainosext + networkingsrv + osrndtools + ossrv + systemswextensions + usb + wlan + xmlsrv + buildplatforms + homescreentools" schema="1.5.1 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0"><systemModel>
+<SystemDefinition name="sysdef_dtd_1_5_1_xml + QuickOffice + adobereader + webvideo + wmdrmkeystorage_dist + wmdrmpd_dist + zipviewer + AknPictographBitmaps + avdomain + s60platformrelease + ctd_layers + oemrndtools + swconfigapps + avdomain + btaudioadaptation_stub + drm_stub + ocrsrv_stub + omasuplasnconverterstubimpl + posmsgpluginreferenceimpl + power_save_display_mode_stub + srsfenginestub + systemswstubs + tactileclickplugin_stub + wlanhwinit_stub + camera + commonemail + conntools + contacts + contentcontrol + conversations + devicecontrol + systemswextensions + files + graphicsuis + helps + homescreen + im + iptelephony + jrt + location + messaging + mmsharinguis + avdomain + organizer + phone + photos + printing + profile + radio + rndtools + screensaver + settingsuis + speechsrv + graphics + utils + video + videotelephony + avdomain + webuis + accesssec + appinstall + appsupport + btservices + camerasrv + classicui + dlnasrv + drm + gsprofilesrv + hapticsservices + avdomain + homescreensrv + imghandling + imsrv + inputmethods + ipappprotocols + ipappservices + ipconnmgmt + legacypresence + locationsrv + mds + messagingmw + metadatasrv + avdomain + avdomain + mmuifw + netprotocols + opensrv + phonesrv + platformtools + ptihangulcore + ptikoreanqwertycore + qt + remoteconn + remotemgmt + remotestorage + securitysrv + serviceapi + serviceapifw + shortlinkconn + ossrv + svgt + uiaccelerator + uiresources + uitools + usbservices + videoutils + vpnclient + web + websrv + wirelessacc + bt + deviceplatformrelease + devicesrv + graphics + imagingext + lbs + avdomainosext + osrndtools + ossrv + systemswextensions + usb + wlan + xmlsrv + buildplatforms + homescreentools" schema="1.5.1 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0"><systemModel>
     <layer name="complementary_layer">
       <module name="QuickOffice">
         <unit unitID="orgdo.QuickOffice" mrp="" bldFile="ext/complementary/QuickOffice/group" filter="dfs_build" name="QuickOffice"/>
@@ -303,8 +303,14 @@ Description:
 <module name="wirelessacc">
         <unit unitID="netdo.wirelessacc" mrp="" bldFile="sf/mw/wirelessacc/group" name="wirelessacc"/>
       </module>
+<module name="ossrv">                             
+<unit name="ossrv" unitID="mrtdo.ossrv" bldFile="sf/os/ossrv/group" mrp=""/>
+</module>
 <module name="textandloc">
         <unit unitID="abs.textandloc" mrp="" bldFile="sf/os/textandloc/group" name="textandloc"/>
+      </module>
+<module name="xmlsrv">
+        <unit unitID="WSDo.xmlsrv" mrp="" bldFile="sf/os/xmlsrv/group" name="xmlsrv"/>
       </module></layer>
 <layer name="module_test_layer">
 			<module name="mobilemidi51_tsrc">
@@ -546,24 +552,15 @@ Description:
 <module name="mm">
 				<unit unitID="mm" mrp="" bldFile="sf/os/mm/group" name="mm"/>
 			</module>
-<module name="networkingsrv">
-        <unit unitID="netdo.networkingsrv" mrp="" bldFile="sf/os/networkingsrv/group" name="networkingsrv"/>
-      </module>
 <module name="osrndtools">
         <unit unitID="tools.osrndtools" mrp="" bldFile="sf/os/osrndtools/group" name="osrndtools"/>
       </module>
-<module name="ossrv">                             
-<unit name="ossrv" unitID="mrtdo.ossrv" bldFile="sf/os/ossrv/group" mrp=""/>
-</module>
 <module name="usb">
         <unit unitID="lcdo.usb" mrp="" bldFile="sf/os/usb/group" name="usb"/>
       </module>
 <module name="wlan">
         <unit unitID="netdo.wlan" mrp="" bldFile="sf/os/wlan/group" name="wlan"/>
         <unit unitID="netdo.wlanwpx" mrp="" bldFile="sf/os/wlan/wlan_bearer/wlanengine/wlan_symbian/wlanengine_symbian_3.1/group/wpx" filter="dfs_build" name="wlanwpx"/>
-      </module>
-<module name="xmlsrv">
-        <unit unitID="WSDo.xmlsrv" mrp="" bldFile="sf/os/xmlsrv/group" name="xmlsrv"/>
       </module>
 <module name="sf_common_tsy">
 			<component name="sf_common_tsy">
@@ -868,7 +865,6 @@ Description:
   			<unit unitID="hsdo.sapi_homescreenplugin.test" name="sapi_homescreenplugin.test" bldFile="sf/mw/homescreensrv/homescreensrv_plat/sapi_homescreenplugin/tsrc/group" mrp=""/>
 			</module>
 <module name="imagehandling_api_tests">
-     	<unit unitID="imm.3gp_library_api" mrp="" bldFile="sf/mw/imghandling/imagehandling_plat/3gp_library_api/tsrc/group" name="3gp_library_api"/>
      	<unit unitID="imm.imagehandlinglib_api" mrp="" bldFile="sf/mw/imghandling/imagehandlinglib/tsrc/public/basic/group" name="imagehandlinglib_api"/>
      	<unit unitID="imm.thumbnailmanager_api" mrp="" bldFile="sf/mw/imghandling/imagehandling_plat/thumbnailmanager_api/tsrc/group" name="thumbnailmanager_api"/>
 	</module>
@@ -943,7 +939,8 @@ Description:
 <module name="Phonebook2">
          <unit unitID="Phonebook2" mrp="" bldFile="sf/app/contacts/phonebookui/Phonebook2/tsrc/group" name="Phonebook2"/>
          <unit unitID="remotecontactlookup" mrp="" bldFile="sf/app/contacts/phonebookui/Phonebook2/remotecontactlookup/contactactionservice/saveascontactplugin/tsrc/group" name="remotecontactlookup"/>
-         <unit unitID="statusprovider" mrp="" bldFile="sf/app/contacts/phonebookui/Phonebook2/statusprovider/tsrc/ut_statusprovider/group" name="statusprovider"/>      
+         <unit unitID="spbcontentprovider" mrp="" bldFile="sf/app/contacts/phonebookui/Phonebook2/spbcontentprovider/tsrc/ut_contentprovider/group" name="spbcontentprovider"/>      
+         <unit unitID="NamesListExtension" mrp="" bldFile="sf/app/contacts/phonebookui/Phonebook2/NamesListExtension/tsrc/group" name="NamesListExtension"/>      
       </module>
 <module name="UIControls_Presentation_USIMExtension_CCA">
         <unit unitID="UIControls" mrp="" bldFile="sf/app/contacts/phonebookui/Phonebook2/UIControls/tsrc/group" name="UIControls"/>
