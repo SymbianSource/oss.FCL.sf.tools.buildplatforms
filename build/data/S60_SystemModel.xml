@@ -105,7 +105,7 @@ Contributors:
 Description:
 ============================================================================
 -->
-<SystemDefinition name="sysdef_dtd_1_5_1_xml + QuickOffice + adobereader + webvideo + wmdrmkeystorage_dist + wmdrmpd_dist + zipviewer + AknPictographBitmaps + avdomain + s60platformrelease + ctd_layers + oemrndtools + swconfigapps + avdomain + btaudioadaptation_stub + drm_stub + ocrsrv_stub + omasuplasnconverterstubimpl + posmsgpluginreferenceimpl + power_save_display_mode_stub + srsfenginestub + systemswstubs + tactileclickplugin_stub + wlanhwinit_stub + camera + commonemail + conntools + contacts + contentcontrol + conversations + devicecontrol + systemswextensions + files + graphicsuis + helps + homescreen + im + iptelephony + jrt + location + messaging + mmsharinguis + avdomain + organizer + phone + photos + printing + profile + radio + rndtools + screensaver + settingsuis + speechsrv + graphics + utils + video + videotelephony + avdomain + webuis + accesssec + appinstall + appsupport + btservices + camerasrv + classicui + dlnasrv + drm + gsprofilesrv + hapticsservices + avdomain + homescreensrv + imghandling + imsrv + inputmethods + ipappprotocols + ipappservices + ipconnmgmt + legacypresence + locationsrv + mds + messagingmw + metadatasrv + avdomain + avdomain + mmuifw + netprotocols + opensrv + phonesrv + platformtools + ptihangulcore + ptikoreanqwertycore + qt + remoteconn + remotemgmt + remotestorage + securitysrv + serviceapi + serviceapifw + shortlinkconn + ossrv + svgt + uiaccelerator + uiresources + uitools + usbservices + videoutils + vpnclient + web + websrv + wirelessacc + bt + deviceplatformrelease + devicesrv + graphics + imagingext + lbs + avdomainosext + osrndtools + ossrv + systemswextensions + usb + wlan + xmlsrv + buildplatforms + homescreentools" schema="1.5.1 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0"><systemModel>
+<SystemDefinition name="sysdef_dtd_1_5_1_xml + QuickOffice + adobereader + webvideo + wmdrmkeystorage_dist + wmdrmpd_dist + zipviewer + avdomain + s60platformrelease + oemrndtools + swconfigapps + avdomain + btaudioadaptation_stub + drm_stub + ocrsrv_stub + omasuplasnconverterstubimpl + posmsgpluginreferenceimpl + power_save_display_mode_stub + srsfenginestub + systemswstubs + tactileclickplugin_stub + wlanhwinit_stub + camera + commonemail + conntools + contacts + contentcontrol + conversations + devicecontrol + systemswextensions + files + graphicsuis + helps + homescreen + homescreentools + im + iptelephony + jrt + location + messaging + mmsharinguis + avdomain + organizer + phone + photos + printing + profile + radio + rndtools + screensaver + settingsuis + speechsrv + graphics + utils + video + videotelephony + avdomain + webuis + accesssec + appinstall + appsupport + btservices + camerasrv + classicui + dlnasrv + drm + gsprofilesrv + hapticsservices + avdomain + homescreensrv + imghandling + imsrv + inputmethods + ipappprotocols + ipappservices + ipconnmgmt + legacypresence + locationsrv + mds + messagingmw + metadatasrv + avdomain + avdomain + mmuifw + netprotocols + opensrv + phonesrv + platformtools + ptihangulcore + ptikoreanqwertycore + qt + remoteconn + remotemgmt + remotestorage + securitysrv + serviceapi + serviceapifw + shortlinkconn + ossrv + svgt + uiaccelerator + uiresources + uitools + usbservices + videoutils + vpnclient + web + websrv + wirelessacc + bt + deviceplatformrelease + devicesrv + graphics + imagingext + lbs + avdomainosext + osrndtools + ossrv + systemswextensions + usb + wlan + xmlsrv + buildplatforms" schema="1.5.1 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.5.1 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0"><systemModel>
     <layer name="complementary_layer">
       <module name="QuickOffice">
         <unit unitID="orgdo.QuickOffice" mrp="" bldFile="ext/complementary/QuickOffice/group" filter="dfs_build" name="QuickOffice"/>
@@ -126,10 +126,7 @@ Description:
         <unit unitID="orgdo.zipviewer" mrp="" bldFile="ext/complementary/zipviewer/group" filter="dfs_build" name="zipviewer"/>
       </module></layer>
 <layer name="mw_layer">
-      <module name="AknPictographBitmaps">
-        <unit unitID="abs.AknPictographBitmaps" mrp="" bldFile="ext/mw/AknPictographBitmaps" filter="no_build" name="AknPictographBitmaps"/>
-      </module>
-<module name="mobilemidi">
+			<module name="mobilemidi">
 				<unit unitID="mobilemidi51" mrp="" bldFile="ext/mw/mobilemidi/Group" name="mobilemidi51"/>
 			</module>
 <module name="accesssec">
@@ -186,7 +183,7 @@ Description:
         <unit unitID="imm.imghandling" mrp="" bldFile="sf/mw/imghandling/group" name="imghandling"/>
       </module>
 <module name="imsrv">
-        <unit unitID="MeCodo.imsrv" mrp="" bldFile="sf/mw/imsrv/group" name="imsrv"/>
+        <unit unitID="MeCoDo.imsrv" mrp="" bldFile="sf/mw/imsrv/group" name="imsrv"/>
       </module>
 <module name="inputmethods">
         <unit unitID="abs.inputmethods" mrp="" bldFile="sf/mw/inputmethods/group" name="inputmethods"/>
@@ -216,7 +213,7 @@ Description:
         <unit unitID="imm.mds" mrp="" bldFile="sf/mw/mds/group" name="mds"/>
       </module>
 <module name="messagingmw">
-        <unit unitID="Medo.messagingmw" mrp="" bldFile="sf/mw/messagingmw/group" name="messagingmw"/>
+        <unit unitID="MeCoDo.messagingmw" mrp="" bldFile="sf/mw/messagingmw/group" name="messagingmw"/>
       </module>
 <module name="metadatasrv">
         <unit unitID="imm.metadatasrv" mrp="" bldFile="sf/mw/metadatasrv/group" name="metadatasrv"/>
@@ -234,7 +231,7 @@ Description:
 	    <unit unitID="browsing_domain.netprotocols" mrp="" bldFile="sf/mw/netprotocols/group" name="netprotocols"/>
       </module>
 <module name="opensrv">
-        <unit unitID="MeCodo.opensrv" mrp="" bldFile="sf/mw/opensrv/group" name="opensrv"/>
+        <unit unitID="MeCoDo.opensrv" mrp="" bldFile="sf/mw/opensrv/group" name="opensrv"/>
       </module>
 <module name="phonesrv">
 	      <unit name="phonesrv" unitID="tedo.phonesrv" bldFile="sf/mw/phonesrv/group" mrp=""/>
@@ -249,8 +246,8 @@ Description:
         <unit unitID="abs.ptikoreanqwertycore" mrp="" bldFile="sf/mw/ptikoreanqwertycore/group" name="ptikoreanqwertycore"/>
       </module>
 <module name="qt">
-        <unit unitID="qtdo.qt" mrp="" bldFile="sf/mw/qt" name="qt"/>
-      </module>
+                <unit unitID="qtdo.qt" mrp="" bldFile="sf/mw/qt" name="qt"/>
+            </module>
 <module name="remoteconn">
         <unit name="remoteconn" unitID="sydo.remoteconn" bldFile="sf/mw/remoteconn/group" mrp=""/>
       </module>
@@ -365,13 +362,10 @@ Description:
 			</module>
     </layer>
 <layer name="app_layer">
-      <module name="ctd_layers">
-        <unit unitID="tools.ctd_layers" mrp="" bldFile="ext/tools/ctd_layers/group" name="ctd_layers"/>
-      </module>
-<module name="oemrndtools">
+      <module name="oemrndtools">
         <unit unitID="tools.oemrndtools" mrp="" bldFile="ext/tools/oemrndtools/group" name="oemrndtools"/>
       </module>
-<module name="">
+      <module name="">
       <unit unitID="tools.oemrndtools.trk" mrp="" bldFile="ext/tools/oemrndtools/trk/group" filter="oem_build" name="tools_oemrndtools_trk"/>
      </module>
 <module name="camera">
@@ -388,7 +382,7 @@ Description:
         <unit unitID="spdo.contentcontrol" mrp="" bldFile="sf/app/contentcontrol/group" name="contentcontrol"/>
       </module>
 <module name="conversations">
-        <unit unitID="MeCodo.conversations" mrp="" bldFile="sf/app/conversations/group" name="conversations"/>
+        <unit unitID="MeCoDo.conversations" mrp="" bldFile="sf/app/conversations/group" name="conversations"/>
       </module>
 <module name="devicecontrol">
         <unit unitID="spdo.devicecontrol" mrp="" bldFile="sf/app/devicecontrol/group" name="devicecontrol"/>
@@ -408,6 +402,10 @@ Description:
 <module name="homescreen">
         <unit unitID="hs.homescreen" mrp="" bldFile="sf/app/homescreen/group" name="homescreen"/>
       </module>
+<module name="homescreentools">
+        <unit unitID="hsdo.themeinstaller" mrp="" bldFile="sf/app/homescreentools/themeinstaller/group" name="themeinstaller"/>
+        <unit unitID="hsdo.widgettools" mrp="" bldFile="sf/app/homescreentools/widgettools/group" name="widgettools"/>
+      </module>
 <module name="im">
         <unit unitID="impp.im" mrp="" bldFile="sf/app/im/group" name="im"/>
       </module>
@@ -422,7 +420,7 @@ Description:
         <unit unitID="lodo.location" mrp="" bldFile="sf/app/location/group" name="location"/>
       </module>
 <module name="messaging">
-        <unit unitID="Medo.messaging" mrp="" bldFile="sf/app/messaging/group" name="messaging"/>
+        <unit unitID="MeCoDo.messaging" mrp="" bldFile="sf/app/messaging/group" name="messaging"/>
       </module>
 <module name="mmsharinguis">
   		<unit unitID="msdo.mmsharinguis" name="mmsharinguis" bldFile="sf/app/mmsharinguis/group" mrp=""/> 
@@ -486,6 +484,18 @@ Description:
 <module name="webuis">
 	    <unit unitID="browsing_domain.webuis" mrp="" bldFile="sf/app/webuis/group" name="webuis"/>
       </module>
+<module name="qtdemos">
+                <unit unitID="qtdo.qt.demos" mrp="" bldFile="sf/mw/qt/demos" name="qtdemos" proFile="demos.pro" qmakeArgs="-r" filter="qtdemos"/>
+            </module>
+<module name="qtexamples">
+                <unit unitID="qtdo.qt.examples" mrp="" bldFile="sf/mw/qt/examples" name="qtexamples" proFile="examples.pro" qmakeArgs="-r" filter="qtexamples"/>
+            </module>
+<module name="qttestsauto">
+                <unit unitID="qtdo.qt.testsauto" mrp="" bldFile="sf/mw/qt/tests/auto" name="qttestsauto" proFile="qtpauto.pro" qmakeArgs="-r" filter="qttestsauto"/>
+            </module>
+<module name="qttestsbenchmarks">
+                <unit unitID="qtdo.qt.testsbenchmarks" mrp="" bldFile="sf/mw/qt/tests/benchmarks" name="qttestsbenchmarks" proFile="benchmarks.pro" qmakeArgs="-r" filter="qttestsbenchmarks"/>
+            </module>
 <module name="locfiles">
 				<unit unitID="platform.locfiles" mrp="" bldFile="sf/os/deviceplatformrelease/locfiles/group" filter="" name="locfiles"/>
 				<unit unitID="platform.locfiles.set1" mrp="" bldFile="sf/os/deviceplatformrelease/locfiles/group/set1" filter="" name="locfiles_set1"/>
@@ -1011,6 +1021,13 @@ Description:
         <unit unitID="contacts" mrp="" bldFile="sf/app/contacts/group" name="contacts"/>
       </module>
     </layer>
+<layer name="bldmefirst_layer">
+      <module name="homescreentoolsdtd">
+        <unit unitID="hsdo.dtdinstaller" mrp="" bldFile="sf/app/homescreentools/dtdinstaller/group" name="dtdinstaller"/>
+      </module>
+<module name="devicesrv">                                                                                                                        
+        <unit unitID="sydo.platformpaths" bldFile="sf/os/devicesrv/devicesrv_pub/platform_path_definitions_api/group" name="platformpaths" mrp=""/>               
+      </module></layer>
 <layer name="app_musicplayer_layer">
 			<module name="musicplayer_group">
 				<unit unitID="musicplayer_group" mrp="" bldFile="sf/app/musicplayer/group" name="musicplayer_group"/>
@@ -1064,25 +1081,14 @@ Description:
 			</module>
     </layer>
 <layer name="tools_layer">
-      <module name="qtconf">
-        <unit unitID="qtdo.qt.qtconf" mrp="" bldFile="sf/mw/qt/group" name="qtconf"/>
-      </module>
+            <module name="qtconf">
+                <unit unitID="qtdo.qt.qtconf" mrp="" bldFile="sf/mw/qt/group" name="qtconf"/>
+            </module>
 <module name="uitools">
         <unit unitID="abs.uitools" mrp="" bldFile="sf/mw/uitools/group" name="uitools"/>
       </module>
 <module name="">
         <unit unitID="abs.uitools.toollibraries" mrp="" bldFile="sf/mw/uitools/toollibraries/group" name="uitools_toollibraries" filter="!sf_build"/>
-      </module>
-<module name="homescreentools">
-        <unit unitID="hsdo.themeinstaller" mrp="" bldFile="sf/tools/homescreentools/themeinstaller/group" name="themeinstaller"/>
-        <unit unitID="hsdo.widgettools" mrp="" bldFile="sf/tools/homescreentools/widgettools/group" name="widgettools"/>
-      </module></layer>
-<layer name="bldmefirst_layer">                                                                                                                             
-      <module name="devicesrv">                                                                                                                        
-        <unit unitID="sydo.platformpaths" bldFile="sf/os/devicesrv/devicesrv_pub/platform_path_definitions_api/group" name="platformpaths" mrp=""/>               
-      </module>                                                                                                                                                     
-<module name="homescreentoolsdtd">
-        <unit unitID="hsdo.dtdinstaller" mrp="" bldFile="sf/tools/homescreentools/dtdinstaller/group" name="dtdinstaller"/>
       </module></layer>
 <layer name="arm9e_layer"> 
                             <module name=""> 
