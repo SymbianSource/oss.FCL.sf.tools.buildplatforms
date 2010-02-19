@@ -105,7 +105,7 @@ Contributors:
 Description:
 ============================================================================
 -->
-<SystemDefinition name="sysdef_dtd_1_5_1_xml + QuickOffice + adobereader + webvideo + wmdrmkeystorage_dist + wmdrmpd_dist + zipviewer + avdomain + s60platformrelease + oemrndtools + swconfigapps + avdomain + btaudioadaptation_stub + drm_stub + ocrsrv_stub + omasuplasnconverterstubimpl + posmsgpluginreferenceimpl + power_save_display_mode_stub + srsfenginestub + systemswstubs + tactileclickplugin_stub + wlanhwinit_stub + camera + commonemail + conntools + contacts + contentcontrol + conversations + devicecontrol + systemswextensions + files + graphicsuis + helps + homescreen + homescreentools + im + iptelephony + jrt + location + messaging + mmsharinguis + avdomain + organizer + phone + photos + printing + profile + radio + rndtools + screensaver + settingsuis + speechsrv + graphics + utils + video + videotelephony + avdomain + webuis + accesssec + appinstall + appsupport + btservices + camerasrv + classicui + dlnasrv + drm + gsprofilesrv + hapticsservices + avdomain + homescreensrv + imghandling + imsrv + inputmethods + ipappprotocols + ipappservices + ipconnmgmt + legacypresence + locationsrv + mds + messagingmw + metadatasrv + avdomain + avdomain + mmuifw + netprotocols + opensrv + phonesrv + platformtools + ptihangulcore + ptikoreanqwertycore + qt + remoteconn + remotemgmt + remotestorage + securitysrv + serviceapi + serviceapifw + shortlinkconn + ossrv + svgt + uiaccelerator + uiresources + uitools + usbservices + videoutils + vpnclient + web + websrv + wirelessacc + bt + deviceplatformrelease + devicesrv + graphics + imagingext + lbs + avdomainosext + osrndtools + ossrv + systemswextensions + usb + wlan + xmlsrv + buildplatforms" schema="1.5.1 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.5.1 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0"><systemModel>
+<SystemDefinition name="sysdef_dtd_1_5_1_xml + QuickOffice + adobereader + webvideo + wmdrmkeystorage_dist + wmdrmpd_dist + zipviewer + avdomain + s60platformrelease + oemrndtools + swconfigapps + avdomain + btaudioadaptation_stub + drm_stub + ocrsrv_stub + omasuplasnconverterstubimpl + posmsgpluginreferenceimpl + power_save_display_mode_stub + srsfenginestub + systemswstubs + tactileclickplugin_stub + wlanhwinit_stub + camera + commonemail + conntools + contacts + contentcontrol + conversations + devicecontrol + systemswextensions + files + graphicsuis + helps + homescreen + homescreentools + im + iptelephony + jrt + location + messaging + mmsharinguis + avdomain + organizer + phone + photos + printing + profile + radio + rndtools + screensaver + settingsuis + speechsrv + graphics + utils + video + videotelephony + avdomain + webuis + accesssec + appinstall + appsupport + btservices + camerasrv + classicui + dlnasrv + drm + gsprofilesrv + hapticsservices + avdomain + homescreensrv + imghandling + imsrv + inputmethods + ipappprotocols + ipappservices + ipconnmgmt + legacypresence + locationsrv + mds + messagingmw + metadatasrv + avdomain + avdomain + mmuifw + netprotocols + opensrv + phonesrv + platformtools + qt + remoteconn + remotemgmt + remotestorage + securitysrv + serviceapi + serviceapifw + shortlinkconn + ossrv + svgt + uiaccelerator + uiresources + uitools + usbservices + videoutils + vpnclient + web + websrv + wirelessacc + bt + deviceplatformrelease + devicesrv + graphics + imagingext + lbs + avdomainosext + osrndtools + ossrv + systemswextensions + usb + wlan + xmlsrv + buildplatforms" schema="1.5.1 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.5.1 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0 + 1.4.0"><systemModel>
     <layer name="complementary_layer">
       <module name="QuickOffice">
         <unit unitID="orgdo.QuickOffice" mrp="" bldFile="ext/complementary/QuickOffice/group" filter="dfs_build" name="QuickOffice"/>
@@ -146,8 +146,8 @@ Description:
 <module name="">
         <unit unitID="sydo.appsupport.appsupport_plat.flash_mmi_service_interface_custom_api" name="sydo_appsupport_appsupport_plat_flash_mmi_service_interface_custom_api" bldFile="sf/mw/appsupport/appsupport_plat/flash_mmi_service_interface_custom_api/group" mrp="" filter="!sf_build"/>
         <unit unitID="sydo.appsupport.appsupport_plat.flash_netscape_plugin_command_api" name="sydo_appsupport_appsupport_plat_flash_netscape_plugin_command_api" bldFile="sf/mw/appsupport/appsupport_plat/flash_netscape_plugin_command_api/group" mrp="" filter="!sf_build"/>
+        <unit unitID="sydo.appsupport.coreapplicationuis.atcmdplugin" name="sydo_appsupport_appsupport_coreapplicationuis_atcmdplugin" bldFile="sf/mw/appsupport/coreapplicationuis/atcmdplugin/group" mrp="" filter="sf_build"/>
 <unit unitID="mmmw_3GPExtParserLib" mrp="" bldFile="sf/mw/mmmw/mmserv/metadatautility/3GPExtParserLib/group" filter="!sf_build" name="mmmw_3GPExtParserLib"/>
-<unit unitID="mtp" mrp="" bldFile="sf/mw/mmmw/mtp/group" filter="!sf_build" name="mtp"/>
 <unit unitID="sedo.securitysrv.pkiutilities.Certificates" bldFile="sf/mw/securitysrv/pkiutilities/Certificates/group" mrp="" filter="sf_build" name="sedo_securitysrv_pkiutilities_Certificates"/>
 <unit unitID="sedo.securitysrv.pkiutilities.Certificates_OEM" bldFile="sf/mw/securitysrv/pkiutilities/Certificates_OEM/group" mrp="" filter="oem_build" name="sedo_securitysrv_pkiutilities_Certificates_OEM"/>
 <unit unitID="lcdo.usbservices.usbclasses.usbosdescriptorhandler" mrp="" bldFile="sf/mw/usbservices/usbclasses/usbosdescriptorhandler/group" filter="!sf_build" name="usbservices_usbclasses_usbosdescriptorhandler"/>
@@ -239,14 +239,8 @@ Description:
 <module name="platformtools">
         <unit unitID="tools.platformtools" mrp="" bldFile="sf/mw/platformtools/group" name="platformtools"/>
       </module>
-<module name="ptihangulcore">
-        <unit unitID="abs.ptihangulcore" mrp="" bldFile="sf/mw/ptihangulcore/group" name="ptihangulcore"/>
-      </module>
-<module name="ptikoreanqwertycore">
-        <unit unitID="abs.ptikoreanqwertycore" mrp="" bldFile="sf/mw/ptikoreanqwertycore/group" name="ptikoreanqwertycore"/>
-      </module>
 <module name="qt">
-                <unit unitID="qtdo.qt" mrp="" bldFile="sf/mw/qt" name="qt"/>
+                <unit unitID="qtdo.qt" mrp="" bldFile="sf/mw/qt" name="qt" proFile="projects.pro" qmakeArgs="&quot;QMAKE_MOC=/epoc32/tools/qt/moc.exe&quot; &quot;QMAKE_RCC=/epoc32/tools/qt/rcc.exe&quot; &quot;QMAKE_UIC=/epoc32/tools/qt/uic.exe&quot; -r"/>
             </module>
 <module name="remoteconn">
         <unit name="remoteconn" unitID="sydo.remoteconn" bldFile="sf/mw/remoteconn/group" mrp=""/>
@@ -254,6 +248,9 @@ Description:
 <module name="remotemgmt">
         <unit unitID="spdo.remotemgmt" mrp="" bldFile="sf/mw/remotemgmt/group" name="remotemgmt"/>
       </module>
+<module name="policyenginepolicies"> 
+     	<unit unitID="spdo.remotemgmt.policyenginepolicies" mrp="" bldFile="sf/mw/remotemgmt/policymanagement/policyengine/policyenginepolicies/group" filter="!dfs_build" name="spdo_remotemgmt_policyenginepolicies"/>
+     </module>
 <module name="remotestorage">
         <unit unitID="presdo.remotestorage" mrp="" bldFile="sf/mw/remotestorage/group" name="remotestorage"/>
       </module>
@@ -276,7 +273,7 @@ Description:
         <unit unitID="abs.svgt" mrp="" bldFile="sf/mw/svgt/group" name="svgt"/>
       </module>
 <module name="uiaccelerator">
-        <unit unitID="abs.uiaccelerator" mrp="" bldFile="sf/mw/uiaccelerator/group" name="uiaccelerator"/>
+        <unit unitID="nga.uiaccelerator" mrp="" bldFile="sf/mw/uiaccelerator/group" name="uiaccelerator"/>
       </module>
 <module name="uiresources">
         <unit unitID="abs.uiresources" mrp="" bldFile="sf/mw/uiresources/group" name="uiresources"/>
@@ -485,16 +482,16 @@ Description:
 	    <unit unitID="browsing_domain.webuis" mrp="" bldFile="sf/app/webuis/group" name="webuis"/>
       </module>
 <module name="qtdemos">
-                <unit unitID="qtdo.qt.demos" mrp="" bldFile="sf/mw/qt/demos" name="qtdemos" proFile="demos.pro" qmakeArgs="-r" filter="qtdemos"/>
+                <unit unitID="qtdo.qt.demos" mrp="" bldFile="sf/mw/qt/demos" name="qtdemos" proFile="demos.pro" qmakeArgs="&quot;QMAKE_MOC=/epoc32/tools/qt/moc.exe&quot; &quot;QMAKE_RCC=/epoc32/tools/qt/rcc.exe&quot; &quot;QMAKE_UIC=/epoc32/tools/qt/uic.exe&quot; -r" filter="qtdemos"/>
             </module>
 <module name="qtexamples">
-                <unit unitID="qtdo.qt.examples" mrp="" bldFile="sf/mw/qt/examples" name="qtexamples" proFile="examples.pro" qmakeArgs="-r" filter="qtexamples"/>
+                <unit unitID="qtdo.qt.examples" mrp="" bldFile="sf/mw/qt/examples" name="qtexamples" proFile="examples.pro" qmakeArgs="&quot;QMAKE_MOC=/epoc32/tools/qt/moc.exe&quot; &quot;QMAKE_RCC=/epoc32/tools/qt/rcc.exe&quot; &quot;QMAKE_UIC=/epoc32/tools/qt/uic.exe&quot; -r" filter="qtexamples"/>
             </module>
 <module name="qttestsauto">
-                <unit unitID="qtdo.qt.testsauto" mrp="" bldFile="sf/mw/qt/tests/auto" name="qttestsauto" proFile="qtpauto.pro" qmakeArgs="-r" filter="qttestsauto"/>
+                <unit unitID="qtdo.qt.testsauto" mrp="" bldFile="sf/mw/qt/tests/auto" name="qttestsauto" proFile="qtpauto.pro" qmakeArgs="&quot;QMAKE_MOC=/epoc32/tools/qt/moc.exe&quot; &quot;QMAKE_RCC=/epoc32/tools/qt/rcc.exe&quot; &quot;QMAKE_UIC=/epoc32/tools/qt/uic.exe&quot; -r" filter="qttestsauto"/>
             </module>
 <module name="qttestsbenchmarks">
-                <unit unitID="qtdo.qt.testsbenchmarks" mrp="" bldFile="sf/mw/qt/tests/benchmarks" name="qttestsbenchmarks" proFile="benchmarks.pro" qmakeArgs="-r" filter="qttestsbenchmarks"/>
+                <unit unitID="qtdo.qt.testsbenchmarks" mrp="" bldFile="sf/mw/qt/tests/benchmarks" name="qttestsbenchmarks" proFile="benchmarks.pro" qmakeArgs="&quot;QMAKE_MOC=/epoc32/tools/qt/moc.exe&quot; &quot;QMAKE_RCC=/epoc32/tools/qt/rcc.exe&quot; &quot;QMAKE_UIC=/epoc32/tools/qt/uic.exe&quot; -r" filter="qttestsbenchmarks"/>
             </module>
 <module name="locfiles">
 				<unit unitID="platform.locfiles" mrp="" bldFile="sf/os/deviceplatformrelease/locfiles/group" filter="" name="locfiles"/>
@@ -549,7 +546,8 @@ Description:
 <unit unitID="EAacPlusUtil" mrp="" bldFile="sf/os/mm/audio/ARM_CMMF_codecs/EAacPlusUtil/group" filter="!sf_build" name="EAacPlusUtil"/>
 <unit unitID="MP3CodecPlugin" mrp="" bldFile="sf/os/mm/audio/ARM_CMMF_codecs/MP3CodecPlugin/group" filter="!sf_build" name="MP3CodecPlugin"/>
 <unit unitID="WMADecoderPlugin" mrp="" bldFile="sf/os/mm/audio/ARM_CMMF_codecs/WMADecoderPlugin/group" filter="!sf_build" name="WMADecoderPlugin"/>
-<unit unitID="ARM_MDF_Decoders" mrp="" bldFile="sf/os/mm/video/ARM_MDF_Decoders/group" filter="!sf_build" name="ARM_MDF_Decoders"/></module>
+<unit unitID="ARM_MDF_Decoders" mrp="" bldFile="sf/os/mm/video/ARM_MDF_Decoders/group" filter="!sf_build" name="ARM_MDF_Decoders"/>
+<unit unitID="Utilities" mrp="" bldFile="sf/os/mm/video/ARM_MDF_Decoders/Utilities/group" filter="sf_build" name="Utilities"/></module>
 <module name="graphics">
         <unit unitID="abs.graphics" mrp="" bldFile="sf/os/graphics/group" name="graphics"/>
       </module>
@@ -894,7 +892,6 @@ Description:
       	<unit unitID="imm.mds.harvester_framework_api.monitorplugin" mrp="" bldFile="sf/mw/mds/mds_plat/harvester_framework_api/tsrc/MonitorPluginTest/group" name="harvester_framework_api.monitorplugin"/>
         <unit unitID="imm.mds.location_manager_api" mrp="" bldFile="sf/mw/mds/mds_plat/location_manager_api/tsrc/group" name="location_manager_api"/>
         <unit unitID="imm.mds.metadata_engine_api" mrp="" bldFile="sf/mw/mds/mds_plat/metadata_engine_api/tsrc/group" name="metadata_engine_api"/>
-        <unit unitID="imm.mds.content_listing_framework" mrp="" bldFile="sf/mw/mds/mds_pub/content_listing_framework_api/tsrc/group" name="content_listing_framework_api"/>    
       </module>
 <module name="mmappfw_tsrc">
 				<unit unitID="mmappfw_tsrc" name="mmappfw_tsrc" bldFile="sf/mw/mmappfw/tsrc/group" mrp=""/>
@@ -1015,6 +1012,9 @@ Description:
 <module name="mds_unit_tests">
       </module>
 <module name="metadatasrv_unit_tests">
+      </module>
+<module name="uiaccelerator_test">
+        <unit unitID="nga.uiaccererator.unittest" mrp="" bldFile="sf/mw/uiaccelerator/tsrc/group" name="uiaccelerator_test"/>
       </module></layer>
 <layer name="bldfirst_app_layer">
       <module name="contacts">
@@ -1069,9 +1069,6 @@ Description:
 			</module>
 			<module name="">
 				<unit unitID="mmmw_3GPExtParserLib_group" mrp="" bldFile="sf/mw/mmmw/mmserv/metadatautility/3GPExtParserLib/group" filter="!sf_build" name="mmmw_3GPExtParserLib_group"/>
-			</module>
-			<module name="">
-				<unit unitID="mtp_group" mrp="" bldFile="sf/mw/mmmw/mtp/group" filter="!sf_build" name="mtp_group"/>
 			</module>
     </layer>
 <layer name="mw_mmmw_tms_layer">
@@ -1132,6 +1129,9 @@ Description:
 			</module>
 			<module name="">
 				<unit unitID="ARM_MDF_Decoders_group" mrp="" bldFile="sf/os/mm/video/ARM_MDF_Decoders/group" filter="!sf_build" name="ARM_MDF_Decoders_group"/>
+			</module>
+			<module name="">
+				<unit unitID="Utilities_group" mrp="" bldFile="sf/os/mm/video/ARM_MDF_Decoders/Utilities/group" filter="sf_build" name="Utilities_group"/>
 			</module>
     </layer>
 <layer name="bin_layer">
