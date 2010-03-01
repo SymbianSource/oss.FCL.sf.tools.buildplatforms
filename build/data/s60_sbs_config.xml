@@ -21,4 +21,7 @@
 	<!-- gnu make -->
 	<alias name="make" meaning="make_engine.make_changes"/>
 
+	<var name="permissive">
+		<append name="CC_ERRORS_CONTROL_OPTION" value="-fpermissive"/>
+	</var>
 </build>
