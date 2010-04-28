@@ -10,7 +10,7 @@
 	<var name="make_changes">
 		<set name="bitmap.selector.iface" value="\.(bitmap|extension|mifconv|akniconinterfaces|removegtfiles|skingenerator|cryptoprep|builder|help_files|version_update)$"/>
 		<set name="resource.selector.iface" value="\.(resource|extension|skingenerator|mif2cdlindex|nativejava|genericcopy)$"/>
-		<set name="default.selector.iface" value="\.(?!export$|bitmap$|resource$|mifconv$|mif2cdlindex$|nativejava$|akniconinterfaces$|removegtfiles$|genericcopy$|skingenerator$|cryptoprep$|builder$|help_files$|version_update$).*$"/>
+		<set name="default.selector.iface" value="\.(?!export$|bitmap$|resource$|mifconv$|mif2cdlindex$|nativejava$|akniconinterfaces$|removegtfiles$|genericcopy$|skingenerator$|builder$|help_files$|version_update$).*$"/>
 		<!-- 4.5 min -->
 		<set name='TALON_TIMEOUT' value='540000'/> 
 	</var>
